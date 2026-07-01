@@ -1,6 +1,5 @@
 ---
 layout: default
-title: My EPortfolio
 ---
 
 <!-- 1. IMAGE BLOCK & INTRODUCTION -->
