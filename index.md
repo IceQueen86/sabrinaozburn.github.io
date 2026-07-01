@@ -1,3 +1,10 @@
+markdown
+
+---
+layout: home
+title: Welcome Page
+---
+
 <!-- 1. IMAGE BLOCK & INTRODUCTION -->
 <div style="display: flex; align-items: center; gap: 25px; margin-bottom: 30px; flex-wrap: wrap;">
   <img src="https://unsplash.com" 
