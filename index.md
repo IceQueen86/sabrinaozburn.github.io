@@ -15,8 +15,8 @@ layout: default
 
 <!-- 2. ACTION BUTTONS BLOCK -->
 <div style="display: flex; gap: 12px; margin-bottom: 40px; flex-wrap: wrap;">
-  <a href="mailto:walling.sabrina@yahoo.com" style="background-color: #0066cc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">📧 Email Me</a>
-  <a href="#" style="background-color: #6c757d; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">📄 Download Resume</a>
+  <a href="mailto:walling.sabrina@yahoo.com" style="background-color: #0066cc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">✉️ Email</a>
+  <a href="#" style="background-color: #6c757d; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">Download Resume</a>
 </div>
 
 ---
