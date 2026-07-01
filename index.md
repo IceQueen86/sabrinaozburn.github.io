@@ -1,12 +1,9 @@
 markdown
 ---
 layout: home
-title: Sabrina Ozburn
-subtitle: Professional Portfolio
+title: Welcome Page
 ---
 
-# Your Name
-## Professional Portfolio
 
 <!-- 1. IMAGE BLOCK & INTRODUCTION -->
 <div style="display: flex; align-items: center; gap: 25px; margin-bottom: 30px; flex-wrap: wrap;">
