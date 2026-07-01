@@ -24,14 +24,14 @@ title: Welcome Page
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a passionate developer focused on creating smooth user interfaces and efficient backend logic. Welcome to my portfolio!
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Languages:** JavaScript, HTML/CSS, Python, SQL, C++
 * **Frameworks:** React, Node.js, Express
 
-## 📁 Featured Work
+## Featured Work
 ### Project Showcase One
 An intelligent dashboard application featuring real-time data feeds and user activity analytics trackers.
 
