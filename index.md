@@ -1,7 +1,7 @@
 markdown
 ---
 layout: home
-title: Your Name
+title: Sabrina Ozburn
 subtitle: Professional Portfolio
 ---
 
