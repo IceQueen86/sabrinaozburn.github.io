@@ -2,7 +2,8 @@ markdown
 
 ---
 layout: home
-title: Welcome Page
+title: Sabrina Ozburn
+subtitle: Professional Portfolio
 ---
 
 <!-- 1. IMAGE BLOCK & INTRODUCTION -->
